@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "498422684644",
+    "project_id": "ticketingsystem-154012"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498422684644:android:30659377fbe135e4",
+        "android_client_info": {
+          "package_name": "com.userticketingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498422684644-riug0iqq3og5t8l2487n470ttp317mtc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.userticketingsystem",
+            "certificate_hash": "392040DC6CD2C4EE15F784204889599A337A65D0"
+          }
+        },
+        {
+          "client_id": "498422684644-vkqf1vfthsjov0r1339voi257rpdhu04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxqfchKuLs8TTMeozrJjI-h4ly9YWt4mo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
